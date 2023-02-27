@@ -1,6 +1,6 @@
 Introduction
 
-Take a look at my dashboard featuring a survey of data professionals highlighting valuable insights into the salaries, programming language preferences such as SQL, Python, and RStudio, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals. To access the raw data click here. The result is really interesting as we did analysis with real data.
+Take a look at my dashboard featuring a survey of data professionals highlighting valuable insights into the salaries, programming language preferences such as SQL, Python, and RStudio, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
 
 Report Analysis
 
