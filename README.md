@@ -1,8 +1,8 @@
-Introduction
+**Introduction**
 
-Take a look at my dashboard featuring a survey of data professionals highlighting valuable insights into the salaries, programming language preferences such as SQL, Python, and RStudio, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
+This dashboard features a survey of data professionals highlighting valuable insights into the salaries, programming language preferences such as SQL, Python, and RStudio, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals. To access the raw data [click here](https://github.com/SierraKing1/PowerBI/blob/main/Data%20Professional%20Survey%20Breakdown.pbix). The result is really interesting as we did analysis with real data.
 
-Report Analysis
+**Report Analysis**
 
 The dataset used in this study is a survey of data professionals, with around 600-700 respondents of an average age of 29-30. The survey included questions about salary, industry, favorite programming languages, work-life balance, and other related topics. Data cleaning and transformation were performed using Power Query, and visualizations were created to analyze and present the findings.
 
